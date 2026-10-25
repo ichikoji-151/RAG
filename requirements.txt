@@ -2,3 +2,5 @@ opneai
 numpy
 ipykernel
 pypdf
+streamlit
+chromadb
