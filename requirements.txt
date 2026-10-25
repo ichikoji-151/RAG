@@ -1,0 +1,4 @@
+opneai 
+numpy
+ipykernel
+pypdf
